@@ -1,0 +1,26 @@
+.colorClass {
+  background-color: var(--bs-primary-bg-subtle);
+}
+
+.signUpBox {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.searchBox {
+  max-width: 700px;
+}
+.tableContainer {
+  padding: 0 20px;
+}
+.btnBox {
+  max-width: 500px;
+  margin: 0 auto;
+}
+.btnClass {
+  padding: 10px 25px;
+}
+#ifNoTicketBooked {
+  color: black;
+  padding: 30px 0;
+}

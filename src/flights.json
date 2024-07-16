@@ -1,0 +1,1935 @@
+[
+  {
+    "flightNumber": "AI101",
+    "airline": "Air India",
+    "departure": {
+      "airport": "Indira Gandhi International Airport",
+      "code": "DEL",
+      "city": "Delhi",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "05:00 PM"
+    },
+    "arrival": {
+      "airport": "Chhatrapati Shivaji Maharaj International Airport",
+      "code": "BOM",
+      "city": "Mumbai",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "07:30 PM"
+    },
+    "duration": "2h 30m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Boeing 787",
+      "registration": "VT-ANE"
+    },
+
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 3500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Available"
+      },
+      "premiumeconomy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "businessclass": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 7000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 10000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "6E202",
+    "airline": "IndiGo",
+    "departure": {
+      "airport": "Kempegowda International Airport",
+      "code": "BLR",
+      "city": "Bangalore",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "05:00 PM"
+    },
+    "arrival": {
+      "airport": "Chennai International Airport",
+      "code": "MAA",
+      "city": "Chennai",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "07:30 PM"
+    },
+    "duration": "1h 30m",
+    "status": "Delayed",
+    "aircraft": {
+      "model": "Airbus A320",
+      "registration": "VT-IFB"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 3500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Available"
+      },
+      "premiumeconomy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "businessclass": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 7000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 10000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "SG303",
+    "airline": "SpiceJet",
+    "departure": {
+      "airport": "Rajiv Gandhi International Airport",
+      "code": "HYD",
+      "city": "Hyderabad",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "05:00 PM"
+    },
+    "arrival": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "07:30 PM"
+    },
+    "duration": "2h 30m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Boeing 737",
+      "registration": "VT-SGH"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 3500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Available"
+      },
+      "premiumeconomy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "businessclass": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 7000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 10000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "UK404",
+    "airline": "Vistara",
+    "departure": {
+      "airport": "Pune International Airport",
+      "code": "PNQ",
+      "city": "Pune",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "05:00 PM"
+    },
+    "arrival": {
+      "airport": "Sardar Vallabhbhai Patel International Airport",
+      "code": "AMD",
+      "city": "Ahmedabad",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "07:30 PM"
+    },
+    "duration": "1h 30m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Airbus A320",
+      "registration": "VT-TTB"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 3500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Available"
+      },
+      "premiumeconomy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "businessclass": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 7000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 10000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "AI101",
+    "airline": "Air India",
+    "departure": {
+      "airport": "Indira Gandhi International Airport",
+      "code": "DEL",
+      "city": "Delhi",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "05:00 PM"
+    },
+    "arrival": {
+      "airport": "Chhatrapati Shivaji Maharaj International Airport",
+      "code": "BOM",
+      "city": "Mumbai",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "07:30 PM"
+    },
+    "duration": "2h 30m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Boeing 787",
+      "registration": "VT-ANE"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 3500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 7000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 10000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "6E202",
+    "airline": "IndiGo",
+    "departure": {
+      "airport": "Indira Gandhi International Airport",
+      "code": "DEL",
+      "city": "Delhi",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "06:00 PM"
+    },
+    "arrival": {
+      "airport": "Chhatrapati Shivaji Maharaj International Airport",
+      "code": "BOM",
+      "city": "Mumbai",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "08:30 PM"
+    },
+    "duration": "2h 30m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Airbus A320",
+      "registration": "VT-IFG"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 3200
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Not Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 4800
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Not Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 7000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 9500
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "SG303",
+    "airline": "SpiceJet",
+    "departure": {
+      "airport": "Indira Gandhi International Airport",
+      "code": "DEL",
+      "city": "Delhi",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "07:00 PM"
+    },
+    "arrival": {
+      "airport": "Chhatrapati Shivaji Maharaj International Airport",
+      "code": "BOM",
+      "city": "Mumbai",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "09:30 PM"
+    },
+    "duration": "2h 30m",
+    "status": "Delayed",
+    "aircraft": {
+      "model": "Boeing 737",
+      "registration": "VT-SGA"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 3400
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Not Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 4900
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Not Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 6900
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 9400
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "G8404",
+    "airline": "GoAir",
+    "departure": {
+      "airport": "Indira Gandhi International Airport",
+      "code": "DEL",
+      "city": "Delhi",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "08:00 PM"
+    },
+    "arrival": {
+      "airport": "Chhatrapati Shivaji Maharaj International Airport",
+      "code": "BOM",
+      "city": "Mumbai",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "10:30 PM"
+    },
+    "duration": "2h 30m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Airbus A320",
+      "registration": "VT-GOF"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 3300
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Not Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 4800
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Not Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 7000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 9500
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "AI701",
+    "airline": "Air India",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "09:00 AM"
+    },
+    "arrival": {
+      "airport": "Indira Gandhi International Airport",
+      "code": "DEL",
+      "city": "Delhi",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "11:30 AM"
+    },
+    "duration": "2h 30m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Boeing 787",
+      "registration": "VT-ANU"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 4000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 8000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 12000
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "6E304",
+    "airline": "IndiGo",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "10:30 AM"
+    },
+    "arrival": {
+      "airport": "Indira Gandhi International Airport",
+      "code": "DEL",
+      "city": "Delhi",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "01:00 PM"
+    },
+    "duration": "2h 30m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Airbus A320",
+      "registration": "VT-IFH"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 3500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Not Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5200
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Not Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 7500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 11000
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "SG305",
+    "airline": "SpiceJet",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "12:00 PM"
+    },
+    "arrival": {
+      "airport": "Indira Gandhi International Airport",
+      "code": "DEL",
+      "city": "Delhi",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "02:30 PM"
+    },
+    "duration": "2h 30m",
+    "status": "Delayed",
+    "aircraft": {
+      "model": "Boeing 737",
+      "registration": "VT-SGB"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 3400
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Not Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5100
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Not Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 7400
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 10500
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "AI661",
+    "airline": "Air India",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "08:00 AM"
+    },
+    "arrival": {
+      "airport": "Chhatrapati Shivaji Maharaj International Airport",
+      "code": "BOM",
+      "city": "Mumbai",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "11:00 AM"
+    },
+    "duration": "3h 00m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Airbus A321",
+      "registration": "VT-PPQ"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 4500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 6000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 8500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 12000
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "6E215",
+    "airline": "IndiGo",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "10:00 AM"
+    },
+    "arrival": {
+      "airport": "Chhatrapati Shivaji Maharaj International Airport",
+      "code": "BOM",
+      "city": "Mumbai",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "01:00 PM"
+    },
+    "duration": "3h 00m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Airbus A320",
+      "registration": "VT-IEF"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 4200
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Not Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5800
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Not Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 8000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 11500
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "SG211",
+    "airline": "SpiceJet",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "12:30 PM"
+    },
+    "arrival": {
+      "airport": "Chhatrapati Shivaji Maharaj International Airport",
+      "code": "BOM",
+      "city": "Mumbai",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "03:30 PM"
+    },
+    "duration": "3h 00m",
+    "status": "Delayed",
+    "aircraft": {
+      "model": "Boeing 737",
+      "registration": "VT-SGD"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 4000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Not Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5700
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Not Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 8200
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 11000
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "AI515",
+    "airline": "Air India",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "07:00 AM"
+    },
+    "arrival": {
+      "airport": "Pune International Airport",
+      "code": "PNQ",
+      "city": "Pune",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "10:00 AM"
+    },
+    "duration": "3h 00m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Airbus A320",
+      "registration": "VT-ANI"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 4500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 6000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 8500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 12000
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "6E352",
+    "airline": "IndiGo",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "09:00 AM"
+    },
+    "arrival": {
+      "airport": "Pune International Airport",
+      "code": "PNQ",
+      "city": "Pune",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "12:00 PM"
+    },
+    "duration": "3h 00m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Airbus A320",
+      "registration": "VT-IFR"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 4000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Not Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Not Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 8000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 11500
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "SG517",
+    "airline": "SpiceJet",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "11:00 AM"
+    },
+    "arrival": {
+      "airport": "Pune International Airport",
+      "code": "PNQ",
+      "city": "Pune",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "02:00 PM"
+    },
+    "duration": "3h 00m",
+    "status": "Delayed",
+    "aircraft": {
+      "model": "Boeing 737",
+      "registration": "VT-SGN"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 3800
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Not Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5300
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Not Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 7800
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 10800
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "AI765",
+    "airline": "Air India",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "08:00 AM"
+    },
+    "arrival": {
+      "airport": "Rajiv Gandhi International Airport",
+      "code": "HYD",
+      "city": "Hyderabad",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "10:30 AM"
+    },
+    "duration": "2h 30m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Airbus A321",
+      "registration": "VT-ANK"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 4000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 7500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 11000
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "6E478",
+    "airline": "IndiGo",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "10:00 AM"
+    },
+    "arrival": {
+      "airport": "Rajiv Gandhi International Airport",
+      "code": "HYD",
+      "city": "Hyderabad",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "12:30 PM"
+    },
+    "duration": "2h 30m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Airbus A320",
+      "registration": "VT-IFX"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 4200
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Not Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5800
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Not Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 7800
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 11500
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "SG123",
+    "airline": "SpiceJet",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "12:00 PM"
+    },
+    "arrival": {
+      "airport": "Rajiv Gandhi International Airport",
+      "code": "HYD",
+      "city": "Hyderabad",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "02:30 PM"
+    },
+    "duration": "2h 30m",
+    "status": "Delayed",
+    "aircraft": {
+      "model": "Boeing 737",
+      "registration": "VT-SGQ"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 3800
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Not Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5200
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Not Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 7500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 10800
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "AI765",
+    "airline": "Air India",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "06:00 AM"
+    },
+    "arrival": {
+      "airport": "Kempegowda International Airport",
+      "code": "BLR",
+      "city": "Bangalore",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "08:30 AM"
+    },
+    "duration": "2h 30m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Airbus A321",
+      "registration": "VT-ANK"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 4500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 6000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 8500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 12000
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "6E478",
+    "airline": "IndiGo",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "08:00 AM"
+    },
+    "arrival": {
+      "airport": "Kempegowda International Airport",
+      "code": "BLR",
+      "city": "Bangalore",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "10:30 AM"
+    },
+    "duration": "2h 30m",
+    "status": "On Time",
+    "aircraft": {
+      "model": "Airbus A320",
+      "registration": "VT-IFR"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 4000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Not Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5500
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Not Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 8000
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 11500
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  },
+  {
+    "flightNumber": "SG123",
+    "airline": "SpiceJet",
+    "departure": {
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "code": "CCU",
+      "city": "Kolkata",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "10:00 AM"
+    },
+    "arrival": {
+      "airport": "Kempegowda International Airport",
+      "code": "BLR",
+      "city": "Bangalore",
+      "country": "India",
+      "date": "2024-05-29",
+      "time": "12:30 PM"
+    },
+    "duration": "2h 30m",
+    "status": "Delayed",
+    "aircraft": {
+      "model": "Boeing 737",
+      "registration": "VT-SGN"
+    },
+    "classStatus": {
+      "economy": {
+        "class": "Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 3800
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Not Included",
+        "seatSelection": "Not Available",
+        "wifi": "Not Available"
+      },
+      "premiumeconomy": {
+        "class": "Premium Economy",
+        "price": {
+          "currency": "INR",
+          "amount": 5300
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Not Available"
+      },
+      "businessclass": {
+        "class": "Business Class",
+        "price": {
+          "currency": "INR",
+          "amount": 7800
+        },
+        "baggage": {
+          "checked": "1 bag",
+          "carryOn": "1 bag"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      },
+      "firstclass": {
+        "class": "First Class",
+        "price": {
+          "currency": "INR",
+          "amount": 10800
+        },
+        "baggage": {
+          "checked": "2 bags",
+          "carryOn": "2 bags"
+        },
+        "meal": "Included",
+        "seatSelection": "Available",
+        "wifi": "Available"
+      }
+    }
+  }
+]
