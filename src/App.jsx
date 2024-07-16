@@ -32,7 +32,8 @@ function App() {
 
   return (
     <>
-      <AppData.Provider
+    <h1>hello</h1>
+      {/* <AppData.Provider
         value={{
           userData,
           setUserData,
@@ -53,7 +54,7 @@ function App() {
         }}
       >
         <RouterProvider router={router} />
-      </AppData.Provider>
+      </AppData.Provider> */}
     </>
   );
 }
