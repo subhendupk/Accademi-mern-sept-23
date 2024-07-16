@@ -70,5 +70,7 @@ const routes = [
 
 ];
 
-const router = createBrowserRouter(routes);
+const router = createBrowserRouter(routes, {
+  basename: "/Accademi-mern-sept-23",
+});
 export default router;
